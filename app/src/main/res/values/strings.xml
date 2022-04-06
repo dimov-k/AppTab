@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppTab</string>
+
+    <string name="timer_blank">Экзамены начнутся через: </string>
+    <string name="tab_home">Home</string>
+    <string name="timer_num">0</string>
+    <string name="timer_text_days">Дней</string>
+    <string name="timer_text_hour">Часов</string>
+    <string name="timer_text_minute">Минут</string>
+    <string name="teacher">Учитель:</string>
 </resources>
